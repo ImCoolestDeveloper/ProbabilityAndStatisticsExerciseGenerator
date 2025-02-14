@@ -1,3 +1,5 @@
 historic/
 __pycache__/
 *.py[cod]
+
+.gitignore
