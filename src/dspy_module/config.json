@@ -1,0 +1,5 @@
+{
+    "model": "ollama_chat/tinyllama",
+    "api_base": "http://localhost:11434",
+    "api_key": ""
+}
